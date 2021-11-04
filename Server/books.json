@@ -1,0 +1,190 @@
+[{
+    "title": "Unlocking Android",
+    "isbn": "1933988673",
+    "pageCount": 416,
+    "price": 250,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson.jpg",
+    "shortDescription": "Unlocking Android: A Developer's Guide provides concise, hands-on instruction for the Android operating system and development tools. This book teaches important architectural concepts in a straightforward writing style and builds on this with practical and useful examples throughout.",
+    "author": "W. Frank Ableson",
+    "category": "Mobile"
+}, {
+    "title": "Android in Action",
+    "isbn": "1935182722",
+    "pageCount": 592,
+    "price": 580,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ableson2.jpg",
+    "shortDescription": "Android in Action, Second Edition is a comprehensive tutorial for Android developers. Taking you far beyond \"Hello Android,\" this fast-paced book puts you in the driver's seat as you learn important architectural concepts and implementation strategies. You'll master the SDK, build WebKit apps using HTML 5, and even learn to extend or replace Android's built-in features by building useful and intriguing examples. ",
+    "author": "W. Frank Ableson",
+    "category": "Java"
+}, {
+    "title": "Specification by Example",
+    "isbn": "1617290084",
+    "pageCount": 600,
+    "price": 390,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/adzic.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Gojko Adzic",
+    "category": "Java"
+}, {
+    "title": "Flex 3 in Action",
+    "isbn": "1933988746",
+    "pageCount": 576,
+    "price": 670,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Tariq Ahmed",
+    "category": "Internet"
+}, {
+    "title": "Flex 4 in Action",
+    "isbn": "1935182420",
+    "pageCount": 600,
+    "price": 735,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/ahmed2.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Tariq Ahmed",
+    "category": "Internet"
+}, {
+    "title": "Collective Intelligence",
+    "isbn": "1933988312",
+    "pageCount": 425,
+    "price": 198,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alag.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Satnam Alag",
+    "category": "Internet"
+}, {
+    "title": "Zend Framework",
+    "isbn": "1933988320",
+    "pageCount": 432,
+    "price": 560,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allen.jpg",
+    "shortDescription": "Zend Framework in Action is a comprehensive tutorial that shows how to use the Zend Framework to create web-based applications and web services. This book takes you on an over-the-shoulder tour of the components of the Zend Framework as you build a high quality, real-world web application.",
+    "author": "Rob Allen",
+    "category": "Web Development"
+}, {
+    "title": "Flex on Java",
+    "isbn": "1933988797",
+    "pageCount": 265,
+    "price": 380,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/allmon.jpg",
+    "shortDescription": "   A beautifully written book that is a must have for every Java Developer.       Ashish Kulkarni, Technical Director, E-Business Software Solutions Ltd.",
+    "author": "Bernerd Allmon",
+    "category": "Internet"
+}, {
+    "title": "Griffon in Action",
+    "isbn": "1935182234",
+    "pageCount": 375,
+    "price": 187,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/almiray.jpg",
+    "shortDescription": "Griffon in Action is a comprehensive tutorial written for Java developers who want a more productive approach to UI development. In this book, you'll immediately dive into Griffon. After a Griffon orientation and a quick Groovy tutorial, you'll start building examples that explore Griffon's high productivity approach to Swing development. One of the troublesome parts of Swing development is the amount of Java code that is required to get a simple application off the ground.",
+    "author": "Andres Almiray",
+    "category": "Java"
+}, {
+    "title": "OSGi in Depth",
+    "isbn": "193518217X",
+    "pageCount": 325,
+    "price": 250,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/alves.jpg",
+    "shortDescription": "Enterprise OSGi shows a Java developer how to develop to the OSGi Service Platform Enterprise specification, an emerging Java-based technology for developing modular enterprise applications. Enterprise OSGi addresses several shortcomings of existing enterprise platforms, such as allowing the creation of better maintainable and extensible applications, and provide a simpler, easier-to-use, light-weight solution to enterprise software development.",
+    "author": "Alexandre de Castro Alves",
+    "category": "Java"
+}, {
+    "title": "Flexible Rails",
+    "isbn": "1933988509",
+    "pageCount": 592,
+    "price": 480,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong.jpg",
+    "shortDescription": "\"Flexible Rails created a standard to which I hold other technical books. You definitely get your money's worth.\"",
+    "author": "Peter Armstrong",
+    "category": "Web Development"
+}, {
+    "title": "Microsof Services",
+    "isbn": "1932394222",
+    "pageCount": 656,
+    "price": 560,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/lachev.jpg",
+    "shortDescription": "Business reporting is a lifeline of business, so a better reporting environment is a big deal. With a sophisticated, modern tool like Microsoft SQL Server 2000 Reporting Services, you can report-enable any type of application, regardless of its targeted platform or development language.    Written for information workers, system administrators, and developers, this book is a detailed and practical guide to the functionality provided by Reporting Services. It systematically shows off many powerful RS features by leading you through a dizzying variety of possible uses. Following a typical report lifecycle, the book shows you how to create, manage, and deliver RS reports.    In the first half, you will master the skills you need to create reports. System administrators will learn the ropes of managing and securing the report environment. The second half of the book teaches developers the techniques they need to integrate RS with their WinForm or web-based applications. It does this with the help of a wide variety of real-world scenarios which will give you ideas on how to use RS in addition to teaching you the ropes.    An experienced software designer and developer, Teo Lachev works as a technology consultant with the Enterprise Application Services practice of Hewlett-Packard. He is a Microsoft Certified Solution Developer and a Microsoft Certified Trainer. Teo lives in Atlanta, GA.",
+    "author": "Teo Lachev",
+    "category": "Internet"
+}, {
+    "title": "Hello! Flex 4",
+    "isbn": "1933988762",
+    "pageCount": 258,
+    "price": 230,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/armstrong3.jpg",
+    "shortDescription": "Hello! Flex 4 progresses through 26 self-contained examples selected so you can progressively master Flex. They vary from small one-page apps, to a 3D rotating haiku, to a Connect Four-like game. And in the last chapter you'll learn to build a full Flex application called SocialStalkr   a mashup that lets you follow your friends by showing their tweets on a Yahoo map.",
+    "author": "Peter Armstrong",
+    "category": "Internet"
+}, {
+    "title": "Coffeehouse",
+    "isbn": "1884777384",
+    "pageCount": 316,
+    "price": 199,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/asher.jpg",
+    "shortDescription": "Coffeehouse is an anthology of stories, poems and essays originally published on the World Wide Web.",
+    "author": "Levi Asher",
+    "category": "Mobile"
+}, {
+    "title": "Team Foundation Server",
+    "isbn": "1933988592",
+    "pageCount": 344,
+    "price": 240,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/azher.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Jamil Azher",
+    "category": "Web Development"
+}, {
+    "title": "Brownfield Application",
+    "isbn": "1933988711",
+    "pageCount": 550,
+    "price": 880,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/baley.jpg",
+    "shortDescription": "Brownfield Application Development in .Net shows you how to approach legacy applications with the state-of-the-art concepts, patterns, and tools you've learned to apply to new projects. Using an existing application as an example, this book guides you in applying the techniques and best practices you need to make it more maintainable and receptive to change.",
+    "author": "Kyle Baley",
+    "category": "Web Development"
+}, {
+    "title": "MongoDB in Action",
+    "isbn": "1935182870",
+    "pageCount": 670,
+    "price": 399,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/banker.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Kyle Banker",
+    "category": "Internet"
+},{
+    "title": "Data Munging with Perl",
+    "isbn": "1930110006",
+    "pageCount": 304,
+    "price": 290,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/cross.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "David Cross",
+    "category": "Mobile"
+}, {
+    "title": "Hello! HTML5 & CSS3",
+    "isbn": "1935182897",
+    "pageCount": 325,
+    "price": 400,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/crowther.jpg",
+    "shortDescription": "Quick and Easy HTML5 and CSS3 is written for the web designer or developer who wants a fast, example-oriented introduction to the new HTML and CSS features. After a quick review of the basics, you'll turn to what's new. Start by learning to apply important new elements and attributes by building your first real HTML5 pages. You'll then take a quick tour through the new APIs: Form Validation, Canvas, Drag & Drop, Geolocation and Offline Applications. You'll also discover how to include video and audio on your pages without plug-ins, and how to draw interactive vector graphics with SVG.",
+    "author": "Rob Crowther",
+    "category": "Internet"
+}, {
+    "title": "Taming Jaguar",
+    "isbn": "1884777686",
+    "pageCount": 362,
+    "price": 410,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/barlotta3.jpg",
+    "shortDescription": "MongoDB In Action is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Jason R. Weiss",
+    "category": "Web Development"
+}, {
+    "title": "NHibernate",
+    "isbn": "1932394923",
+    "pageCount": 400,
+    "price": 320,
+    "Url": "https://s3.amazonaws.com/AKIAJC5RLADLUMVRPFDQ.book-thumb-images/kuate.jpg",
+    "shortDescription": "NHibernate is a comprehensive guide to MongoDB for application developers. The book begins by explaining what makes MongoDB unique and describing its ideal use cases. A series of tutorials designed for MongoDB mastery then leads into detailed examples for leveraging MongoDB in e-commerce, social networking, analytics, and other common applications.",
+    "author": "Tobin Harris",
+    "category": "Mobile"
+}]

@@ -1,0 +1,281 @@
+html{
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+body{
+  font: 1.6rem Helvetica;
+  height: 100vh;
+  margin: 0;
+}
+
+#root{
+  height:100%;
+}
+.grid-container{
+  display: grid;
+  grid-template-areas: 
+  "header"
+  "main"
+  "footer";
+  grid-template-columns: 1fr;
+  grid-template-rows: 5rem 1fr 5rem;
+  height: 100%;
+}
+.brand a{
+  color: #ffffff;
+  font-size: 3rem;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.main{
+  grid-area: main;
+}
+
+a{
+  text-decoration: none;
+}
+a:hover{
+  color:orange;
+}
+li{
+  list-style-type: none;
+}
+/* Home Screen */
+.books {
+ margin-left:8rem;
+  display: flex;
+  justify-content:left;
+  align-items:center;
+  flex-wrap: wrap;
+  border: 0;
+  margin-bottom: 80px;
+}
+.books li {
+  list-style-type: none;
+  padding: 0;
+  flex: 0 1 34rem;
+  margin: 1rem;
+  max-width:26rem;
+  height: 38rem;
+  flex-wrap: wrap;
+  margin-right: 60px;
+  box-shadow: 1px 2px 4px 2px rgba(0,0,0,0.4);
+  border-radius: 6px;
+  border: 2px solid skyblue;
+  
+}
+.books li:hover {
+  box-shadow: 2px 4px 20px 4px rgba(0,0,0,0.4);
+  transition-duration: 0.6;
+}
+.book{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 35rem;
+  width: 20rem;
+  margin-bottom:0;
+}
+.book-image{
+  width: 16rem;
+  height: 16rem;
+  margin-top: 20px;
+  border-radius: 3%;
+}
+.book-title{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin:15px 0 2px 0;
+}
+.book-author{
+  font-size: 1.2rem;
+  color:#808080;
+  margin-bottom:5px;
+}
+.book-price{
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom:5px;
+}
+
+.book-pages{
+  margin-bottom: 1rem;
+  margin-bottom:5px;
+  font-size: 1.5rem;
+}
+
+/* Book Details */
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  padding:5rem;
+}
+.details-image {
+  flex: 2 1 0rem;
+  width: 50rem;
+  height: 50rem;
+  justify-content:center;
+  align-items: center;
+}
+.details-image img {
+  width: 50rem;
+  height: 30rem;
+  padding:0 10rem;
+}
+.details-info {
+  flex: 1 1 30rem;
+}
+.details-action {
+  flex: 1 1 5rem;
+  
+  border: 0.1rem #808080 solid;
+  border-radius: 0.5rem;
+  background-color: #f8f8f8;
+  padding: 1rem;
+}
+
+.details-info ul,
+.details-action ul {
+  list-style-type: none;
+  padding: 0;
+}
+.details-info li,
+.details-action li {
+  margin-bottom: 1rem;
+}
+.back-to-results {
+  padding: 1rem;
+  margin-right: 1300px;
+}
+
+.details-action ul li:last-child {
+  display: flex;
+  flex-direction: column;
+}
+.button {
+  padding: 10rem;
+  border: 0.1rem #808080 solid;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+.button:hover {
+  border: 0.1rem #404040 solid;
+}
+.cart-button, .button .primary {
+  background-color: #f0c040;
+  border-radius: 0.5rem;
+  margin: 0.5rem 0;
+}
+.wishlist-button{
+  transition: all 0.2s;
+}
+.wishlist-button:hover{
+  background-color: #f0c040;
+  color: #ffffff;
+}
+.button.secondary {
+  background-color: #f0f0f0;
+}
+.text-center {
+  text-align: center;
+}
+
+.cbutton {
+  margin-top: -30px;
+  size: 20px;
+}
+
+.lgout {
+  margin-top: -5px;
+}
+
+.cbbutton {
+  padding: 10px;
+  size: 20px;
+}
+
+.categories {
+  text-align: left;
+}
+
+.searchbar {
+  text-align: right;
+}
+
+/* CSS for Credit Card Payment form */
+.credit-card-box .panel-title {
+    display: inline;
+    font-weight: bold;
+}
+.credit-card-box .form-control.error {
+    border-color: red;
+    outline: 0;
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.075),0 0 8px rgba(255,0,0,0.6);
+}
+.credit-card-box label.error {
+  font-weight: bold;
+  color: red;
+  padding: 2px 8px;
+  margin-top: 2px;
+}
+.credit-card-box .payment-errors {
+  font-weight: bold;
+  color: red;
+  padding: 2px 8px;
+  margin-top: 2px;
+}
+.credit-card-box label {
+    display: block;
+}
+/* The old "center div vertically" hack */
+.credit-card-box .display-table {
+    display: table;
+}
+.credit-card-box .display-tr {
+    display: table-row;
+}
+.credit-card-box .display-td {
+    display: table-cell;
+    vertical-align: middle;
+    width: 50%;
+}
+/* Just looks nicer */
+.credit-card-box .panel-heading img {
+    min-width: 180px;
+}
+
+.input-group-addon {
+  padding-right: 20px;
+}
+
+.payment {
+  margin-left: 350px;
+}
+
+.order-placed {
+  font-size: xx-large;
+}
+
+.print {
+  float: right;
+  margin-top: -25px;
+}
+
+.order-table {
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+td {
+  text-align: left;
+  padding: 30px;
+}
+
+.td-left {
+  text-align: right;
+}

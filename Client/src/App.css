@@ -1,0 +1,62 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #282c34;
+  background-image: "https://image.shutterstock.com/image-photo/blurred-bookshelf-many-old-books-600w-1577682832.jpg";
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.footer {
+  position: fixed;  
+  left: 0;  
+  bottom: 0;
+  width: 100%;
+  background-image: url(https://image.shutterstock.com/image-photo/blurred-bookshelf-many-old-books-600w-1577682832.jpg);
+  color: white;
+  text-align: center;
+  height: 35px;
+  margin-top: 50px;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+button {
+  cursor: pointer;
+}
+
+button:disabled {
+  cursor: not-allowed; 
+}
+
+.cart-image {
+  margin-bottom: 0;
+}
+
+.cart-title {
+  margin-top: 0;
+}
+
+.App .header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-image: url(https://image.shutterstock.com/image-photo/blurred-bookshelf-many-old-books-600w-1577682832.jpg);
+  padding: 10px 20px;
+}
+
+.App .header .logo {
+  font-weight: 100;
+  color: #fff;
+  font-size: 250%;
+  text-shadow: 2px 3px rgba(255,255,255,.4);
+}
